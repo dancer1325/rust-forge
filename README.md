@@ -1,10 +1,7 @@
 # Rust Forge
 
-Welcome to the [Rust Forge]! Rust Forge serves as a repository of supplementary
-documentation useful for members of [The Rust Programming Language].
-
-[the rust programming language]: https://rust-lang.org
-[rust forge]: https://forge.rust-lang.org
+* goal
+  * 💡supplementary documentation💡
 
 # Development
 
